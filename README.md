@@ -1,3 +1,5 @@
 # s2it
-# Abrir como prjeto maven.
-# Executar os casos de teste.
+# Abrir como projeto maven.
+# Executar os casos de teste:
+Exs8Test.java
+Exs9Test.java
